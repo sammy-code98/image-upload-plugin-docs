@@ -1,0 +1,19 @@
+{
+  "name": "md-blog",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "codeSammy",
+    "email": "sammysmart98@yahoo.com"
+  },
+  "repository": "https://github.com/sammy-code98/vue-press-blog.git/md-blog",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
