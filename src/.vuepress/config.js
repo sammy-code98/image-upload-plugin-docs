@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Vuepress Docs Boilerplate',
+  title: 'My VuePress Blog',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -34,16 +34,12 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: 'Guide',
-        link: '/guide/',
+        text: 'About',
+        link: '/about/',
       },
       {
-        text: 'Config',
-        link: '/config/'
-      },
-      {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
+        text: 'Posts',
+        link: '/posts/'
       }
     ],
     sidebar: {
