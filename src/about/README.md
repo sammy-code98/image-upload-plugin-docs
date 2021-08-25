@@ -14,6 +14,4 @@ sidebar : false
 - Type: `string`
 - Default: `/`
 
----
 footer: Made by codeSammy with ❤️
----
