@@ -13,6 +13,6 @@ Just by installing  the **image-upload plugin**  and setting up a few lines of c
 
 ### Violla!!!  Time to dive in  💯 🔥
 
-[Getting Started](/documentation/)
+[Getting Started →](/documentation/)
 
 
