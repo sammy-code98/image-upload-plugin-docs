@@ -58,7 +58,9 @@ module.exports = {
     sidebar:{
       '/documentation/':[
         '',
-        'Getting Started'
+        'Getting Started',
+        'Installation',
+        'Usage'
       ]
 
     }

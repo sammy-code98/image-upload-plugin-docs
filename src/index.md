@@ -3,11 +3,18 @@ home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
 tagline: 
 features:
-- title: Feature 1 Title
+- title: Simple
   details: Feature 1 Description
-- title: Feature 2 Title
+- title: Eazy To Use
   details: Feature 2 Description
-- title: Feature 3 Title
+- title: Javascript
   details: Feature 3 Description
+- title: React Powered
+  details: Feature 4 Description
+- title: React Powered
+  details: Feature 4 Description
+- title: React Powered
+  details: Feature 4 Description
+
 footer: Made by codeSammy with ❤️
 ---
