@@ -49,6 +49,10 @@ module.exports = {
         text: "About",
         link: "/about/",
       },
+      {
+        text:"Github",
+        link:"https://github.com/chimdie/image-upload-plugin"
+      },
   
     ],
     sidebar:{
