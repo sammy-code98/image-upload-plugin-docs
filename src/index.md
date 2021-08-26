@@ -13,10 +13,10 @@ features:
   details: The image-upload plugin is javascript compliant, so there's nothing to worry about as it follows all javacript convention
 - title: React Powered
   details: Written in React.js(A powerful Javascritp FrontEnd library). Enjoy the Power reactjs brings to the table and feel free to customize to your own taste.
-- title: React Powered
-  details: Feature 4 Description
-- title: React Powered
-  details: Feature 4 Description
+- title: Light Weight
+  details: With just 19.4KB unpacked size,you dont have to worry about package size as it is very light
+- title: Community
+  details: There's a great community always ready to welcome you and attend to any of your need.
 
 footer: Made by codeSammy with ❤️
 ---
