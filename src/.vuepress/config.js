@@ -37,22 +37,31 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text: "About",
-        link: "/about/",
+        text:"Documentation",
+        link: "/documentation/"
       },
+    
       {
         text: "Posts",
         link: "/posts/",
       },
       {
-        text:"Documentation",
-        link: "/documentation"
+        text: "About",
+        link: "/about/",
       },
+  
       {
         text: "Contact Us",
         link: "/contact/",
       },
     ],
+    sidebar:{
+      '/documentation/':[
+        '',
+        'Getting Started'
+      ]
+
+    }
   },
 
   /**
