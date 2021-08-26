@@ -45,6 +45,10 @@ module.exports = {
         link: "/posts/",
       },
       {
+        text:"Documentation",
+        link: "/documentation"
+      },
+      {
         text: "Contact Us",
         link: "/contact/",
       },
