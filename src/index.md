@@ -1,6 +1,8 @@
 ---
 home: true
 heroImage: https://v1.vuepress.vuejs.org/hero.png
+actionText: Get Started →
+actionLink: /documentation/
 tagline: 
 features:
 - title: Simple

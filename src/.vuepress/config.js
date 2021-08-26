@@ -4,7 +4,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: "My VuePress Blog",
+  title: "Image-upload Plugin",
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
@@ -50,10 +50,6 @@ module.exports = {
         link: "/about/",
       },
   
-      {
-        text: "Contact Us",
-        link: "/contact/",
-      },
     ],
     sidebar:{
       '/documentation/':[
