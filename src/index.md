@@ -6,11 +6,11 @@ actionLink: /documentation/
 tagline: 
 features:
 - title: Simple
-  details: Feature 1 Description
+  details: Built with simplicity in mind, hence its minimal setup
 - title: Eazy To Use
-  details: Feature 2 Description
-- title: Javascript
-  details: Feature 3 Description
+  details: With  few lines of code, you have a full flegded image upload component ready and eazy to use
+- title: Javascript Compliant
+  details: 
 - title: React Powered
   details: Feature 4 Description
 - title: React Powered
