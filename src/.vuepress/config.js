@@ -40,11 +40,6 @@ module.exports = {
         text:"Documentation",
         link: "/documentation/"
       },
-    
-      {
-        text: "Posts",
-        link: "/posts/",
-      },
       {
         text: "About",
         link: "/about/",
