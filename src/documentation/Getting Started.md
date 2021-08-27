@@ -1,10 +1,14 @@
 # Getting Started
 
-To get started, you would need [Nodejs](https://nodejs.org/en/download/) on your local machine.
+## To get started
+ - You would need [Node.js 10+](https://nodejs.org/en/download/) on your local machine.
 
-A project you want to add or implement the **image-upload plugin**.
+ - A package manger like [npm](https://www.npmjs.com/package/download)
 
-cd into your project and install the  **image-upload plugin**.
+
+- A project you want to add or implement the **image-upload plugin**.
+
+- cd into your project and install the  **image-upload plugin**.
 
 
 
