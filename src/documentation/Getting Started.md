@@ -1,32 +1,10 @@
-# getting started
+# Getting Started
 
-## this is awesome you know
+To get started, you would need [Nodejs](https://nodejs.org/en/download/) on your local machine.
 
+A project you want to add or implement the **image-upload plugin**.
 
-::: tip
-
-This is  tip
-
-:::
+cd into your project and install the  **image-upload plugin**.
 
 
-::: warning
 
-Be careful, i wont warn you again
-
-:::
-
-::: danger
-
-Danger zone, watch out
-
-:::
-
-::: details
-
-click me for more details
-
-:::
-
-
-## follow the below to make lie fun
