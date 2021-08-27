@@ -26,6 +26,13 @@ $ mkdir [your_directory_name] && cd [your_directory_name]
 ```bash 
     npm init
 ```
-``` bash
-    yarn init
+3. Install **image-upload-plugin** locally
+```bash
+npm install --save image-upload-plugin
 ```
+4. Import **image-upload-plugin**
+```javascript
+import { UploadLoader } from 'image-upload-plugin'
+```
+
+5. Use your imported plugin in your application.
