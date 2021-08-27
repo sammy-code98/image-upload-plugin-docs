@@ -10,14 +10,10 @@
   "repository": "https://github.com/sammy-code98/vue-press-blog.git/md-blog",
   "scripts": {
     "dev": "vuepress dev src",
-    "build":"npm run docs:build"
+    "build": "vuepress build src"
   },
   "license": "MIT",
   "devDependencies": {
     "vuepress": "^1.5.3"
   }
 }
-
-
-
-    // "build": "vuepress build src"
