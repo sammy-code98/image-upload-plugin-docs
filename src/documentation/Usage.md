@@ -7,7 +7,7 @@ After installing **image-upload-plugin** your next stop is its usage in your app
 Below are a few examples of its usage.
 :::
 
-## Usage in REACT.js
+## Usage in React.js
 
 ```js
 import React, { Component } from "react";
