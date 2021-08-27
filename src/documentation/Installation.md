@@ -36,3 +36,7 @@ import { UploadLoader } from 'image-upload-plugin'
 ```
 
 5. Use your imported plugin in your application.
+
+::: tip
+Ensure your are in the right directory and you have node.js installed globally or in your porject.
+:::
