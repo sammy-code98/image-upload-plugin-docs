@@ -14,7 +14,7 @@ Below are a few examples of its usage.
 ```js
 import React, { Component } from  'react'
     
-    import { UploadLoader }  from 'image-upload-plugin'
+    import  UploadLoader   from 'image-upload-plugin'
 
     class App extends Component {
         render(){
@@ -23,7 +23,5 @@ import React, { Component } from  'react'
     }
 ```
 
-## Usage in VUE.js
-```vue
-```
+
     

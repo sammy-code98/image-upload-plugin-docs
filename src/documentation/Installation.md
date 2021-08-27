@@ -24,7 +24,7 @@ $ mkdir [your_directory_name] && cd [your_directory_name]
 ```
 2. Initialize with your preferred package manager
 ```bash 
-    npm init
+npm init
 ```
 3. Install **image-upload-plugin** locally
 ```bash
@@ -32,7 +32,7 @@ npm install --save image-upload-plugin
 ```
 4. Import **image-upload-plugin**
 ```javascript
-import { UploadLoader } from 'image-upload-plugin'
+import  UploadLoader  from 'image-upload-plugin'
 ```
 
 5. Use your imported plugin in your application.

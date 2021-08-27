@@ -5,6 +5,7 @@
 
  - A package manger like [npm](https://www.npmjs.com/package/download)
 
+- Ensure you have [React.js](https://reactjs.org/) installed
 
 - A project you want to add or implement the **image-upload plugin**.
 
