@@ -37,32 +37,29 @@ module.exports = {
     lastUpdated: false,
     nav: [
       {
-        text:"Documentation",
-        link: "/documentation/"
+        text: "Documentation",
+        link: "/documentation/",
       },
       {
         text: "About",
         link: "/about/",
       },
       {
-        text:"Github",
-        link:"https://github.com/chimdie/image-upload-plugin"
+        text: "Github",
+        link: "https://github.com/chimdie/image-upload-plugin",
       },
-  
     ],
-    sidebar:{
-      '/documentation/':[
-        '',
-        'Getting Started',
-        'Installation',
-        'Usage'
-      ]
-
-    }
+    sidebar: {
+      "/documentation/": ["", "Getting Started", "Installation", "Usage"],
+    },
   },
 
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
-  plugins: ["@vuepress/plugin-back-to-top", "@vuepress/plugin-medium-zoom"],
+  plugins: [
+    "@vuepress/plugin-back-to-top",
+    "@vuepress/plugin-medium-zoom",
+    "@vuepress/last-updated",
+  ],
 };
